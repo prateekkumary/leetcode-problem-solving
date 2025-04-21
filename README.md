@@ -46,8 +46,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0021-merge-two-sorted-lists) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
