@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0002-add-two-numbers) |
+| [0171-excel-sheet-column-number](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0171-excel-sheet-column-number) |
 | [0268-missing-number](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0268-missing-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/3367-find-the-sum-of-encrypted-integers) |
@@ -45,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0125-valid-palindrome) |
+| [0171-excel-sheet-column-number](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0171-excel-sheet-column-number) |
 ## Linked List
 |  |
 | ------- |
