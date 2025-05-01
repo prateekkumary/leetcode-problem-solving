@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0268-missing-number) |
 | [0476-number-complement](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0476-number-complement) |
 ## Sorting
@@ -63,4 +64,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0175-combine-two-tables) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
