@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0268-missing-number) |
+| [0476-number-complement](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0476-number-complement) |
 ## Sorting
 |  |
 | ------- |
