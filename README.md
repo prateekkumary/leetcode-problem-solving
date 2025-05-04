@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0002-add-two-numbers](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0002-add-two-numbers) |
 | [0171-excel-sheet-column-number](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0171-excel-sheet-column-number) |
+| [0258-add-digits](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0268-missing-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/3367-find-the-sum-of-encrypted-integers) |
@@ -70,4 +71,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0190-reverse-bits](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0191-number-of-1-bits) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
