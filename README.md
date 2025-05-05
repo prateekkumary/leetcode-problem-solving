@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0171-excel-sheet-column-number) |
 ## Linked List
@@ -81,4 +82,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0258-add-digits) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0072-edit-distance](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0072-edit-distance) |
 <!---LeetCode Topics End-->
