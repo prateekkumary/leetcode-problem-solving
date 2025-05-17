@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0258-add-digits](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0292-nim-game) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/3367-find-the-sum-of-encrypted-integers) |
 ## Binary Search
@@ -93,4 +94,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0072-edit-distance](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0072-edit-distance) |
 | [0338-counting-bits](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0338-counting-bits) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
