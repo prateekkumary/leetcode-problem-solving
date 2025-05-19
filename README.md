@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0263-ugly-number](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0292-nim-game) |
+| [0326-power-of-three](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0326-power-of-three) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/3367-find-the-sum-of-encrypted-integers) |
 ## Binary Search
@@ -72,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0050-powx-n) |
+| [0326-power-of-three](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0326-power-of-three) |
 ## Database
 |  |
 | ------- |
