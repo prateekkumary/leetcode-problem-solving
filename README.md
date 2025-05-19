@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0342-power-of-four) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/3367-find-the-sum-of-encrypted-integers) |
 ## Binary Search
@@ -45,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0191-number-of-1-bits](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0342-power-of-four) |
 | [0476-number-complement](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0476-number-complement) |
 ## Sorting
 |  |
@@ -74,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0021-merge-two-sorted-lists](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0050-powx-n) |
 | [0326-power-of-three](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0342-power-of-four) |
 ## Database
 |  |
 | ------- |
