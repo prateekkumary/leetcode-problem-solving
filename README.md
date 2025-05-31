@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0455-assign-cookies) |
 | [0792-binary-search](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0792-binary-search) |
+| [0841-shortest-distance-to-a-character](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0841-shortest-distance-to-a-character) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/3367-find-the-sum-of-encrypted-integers) |
 ## Hash Table
@@ -62,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0455-assign-cookies) |
+| [0841-shortest-distance-to-a-character](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0841-shortest-distance-to-a-character) |
 ## String
 |  |
 | ------- |
@@ -69,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0171-excel-sheet-column-number) |
 | [0290-word-pattern](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0290-word-pattern) |
+| [0841-shortest-distance-to-a-character](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0841-shortest-distance-to-a-character) |
 ## Linked List
 |  |
 | ------- |
