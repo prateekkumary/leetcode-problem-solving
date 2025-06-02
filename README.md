@@ -73,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0171-excel-sheet-column-number](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0171-excel-sheet-column-number) |
 | [0290-word-pattern](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0290-word-pattern) |
 | [0782-jewels-and-stones](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0782-jewels-and-stones) |
+| [0812-rotate-string](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0812-rotate-string) |
 | [0841-shortest-distance-to-a-character](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0841-shortest-distance-to-a-character) |
 ## Linked List
 |  |
@@ -121,4 +122,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0455-assign-cookies) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
