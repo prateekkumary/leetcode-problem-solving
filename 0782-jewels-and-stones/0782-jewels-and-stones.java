@@ -1,19 +1,13 @@
 class Solution {
     public int numJewelsInStones(String jewels, String stones) {
-        ArrayList<Character>list=new ArrayList<>();
-        char []a=jewels.toCharArray();
-        char []b=stones.toCharArray();
-        int j=a.length-1;
-        while(j>=0){
-        for(int i=0;i<b.length;i++){
-            if(a[j]==b[i]){
-                list.add(b[i]);
+        int count = 0;
+        for (int i = 0; i < stones.length(); i++) {
+            for (int j = 0; j < jewels.length(); j++) {
+                if (stones.charAt(i) == jewels.charAt(j)) {
+                    count++;
+                }
             }
-            
         }
-          j--;
-        }
-       
-        return list.size();
+        return count;
     }
 }
