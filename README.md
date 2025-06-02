@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0290-word-pattern) |
+| [0782-jewels-and-stones](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0782-jewels-and-stones) |
 ## Math
 |  |
 | ------- |
@@ -71,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0171-excel-sheet-column-number) |
 | [0290-word-pattern](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0290-word-pattern) |
+| [0782-jewels-and-stones](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0782-jewels-and-stones) |
 | [0841-shortest-distance-to-a-character](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0841-shortest-distance-to-a-character) |
 ## Linked List
 |  |
