@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0035-search-insert-position](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0278-first-bad-version) |
 | [0441-arranging-coins](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0441-arranging-coins) |
 | [0792-binary-search](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0792-binary-search) |
 ## Bit Manipulation
@@ -126,4 +127,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0812-rotate-string) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
