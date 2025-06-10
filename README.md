@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0038-count-and-say) |
 | [0072-edit-distance](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0171-excel-sheet-column-number) |
