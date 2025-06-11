@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0292-nim-game](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0441-arranging-coins) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/3367-find-the-sum-of-encrypted-integers) |
@@ -45,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0278-first-bad-version) |
+| [0367-valid-perfect-square](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0441-arranging-coins) |
 | [0792-binary-search](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0792-binary-search) |
 ## Bit Manipulation
