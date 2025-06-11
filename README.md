@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0326-power-of-three](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0367-valid-perfect-square) |
+| [0415-add-strings](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0441-arranging-coins) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/3367-find-the-sum-of-encrypted-integers) |
@@ -79,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0171-excel-sheet-column-number](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0171-excel-sheet-column-number) |
 | [0290-word-pattern](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0290-word-pattern) |
 | [0409-longest-palindrome](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0409-longest-palindrome) |
+| [0415-add-strings](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0415-add-strings) |
 | [0782-jewels-and-stones](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0812-rotate-string) |
 | [0824-number-of-lines-to-write-string](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0824-number-of-lines-to-write-string) |
@@ -109,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0415-add-strings) |
 ## Number Theory
 |  |
 | ------- |
