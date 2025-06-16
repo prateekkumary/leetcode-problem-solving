@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0824-number-of-lines-to-write-string](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0824-number-of-lines-to-write-string) |
 | [0841-shortest-distance-to-a-character](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0841-shortest-distance-to-a-character) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [2502-sort-the-people](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/2502-sort-the-people) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/3367-find-the-sum-of-encrypted-integers) |
 ## Hash Table
 |  |
@@ -24,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0290-word-pattern](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0290-word-pattern) |
 | [0409-longest-palindrome](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0409-longest-palindrome) |
 | [0782-jewels-and-stones](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0782-jewels-and-stones) |
+| [2502-sort-the-people](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/2502-sort-the-people) |
 ## Math
 |  |
 | ------- |
@@ -64,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0268-missing-number](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0455-assign-cookies) |
+| [2502-sort-the-people](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/2502-sort-the-people) |
 ## Two Pointers
 |  |
 | ------- |
@@ -85,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0812-rotate-string](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0812-rotate-string) |
 | [0824-number-of-lines-to-write-string](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0824-number-of-lines-to-write-string) |
 | [0841-shortest-distance-to-a-character](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0841-shortest-distance-to-a-character) |
+| [2502-sort-the-people](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/2502-sort-the-people) |
 ## Linked List
 |  |
 | ------- |
