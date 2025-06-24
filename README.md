@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0415-add-strings](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0441-arranging-coins) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [2507-number-of-common-factors](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/2507-number-of-common-factors) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/3367-find-the-sum-of-encrypted-integers) |
 ## Binary Search
 |  |
@@ -120,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0258-add-digits) |
+| [2507-number-of-common-factors](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/2507-number-of-common-factors) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -146,4 +148,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0278-first-bad-version) |
+## Enumeration
+|  |
+| ------- |
+| [2507-number-of-common-factors](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/2507-number-of-common-factors) |
 <!---LeetCode Topics End-->
