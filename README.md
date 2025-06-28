@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0290-word-pattern](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0290-word-pattern) |
 | [0409-longest-palindrome](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0409-longest-palindrome) |
 | [0782-jewels-and-stones](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0782-jewels-and-stones) |
+| [2427-first-letter-to-appear-twice](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/2427-first-letter-to-appear-twice) |
 | [2502-sort-the-people](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/2502-sort-the-people) |
 ## Math
 |  |
@@ -63,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0338-counting-bits](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0342-power-of-four) |
 | [0476-number-complement](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0476-number-complement) |
+| [2427-first-letter-to-appear-twice](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/2427-first-letter-to-appear-twice) |
 ## Sorting
 |  |
 | ------- |
@@ -90,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0812-rotate-string](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0812-rotate-string) |
 | [0824-number-of-lines-to-write-string](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0824-number-of-lines-to-write-string) |
 | [0841-shortest-distance-to-a-character](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0841-shortest-distance-to-a-character) |
+| [2427-first-letter-to-appear-twice](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/2427-first-letter-to-appear-twice) |
 | [2502-sort-the-people](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/2502-sort-the-people) |
 ## Linked List
 |  |
@@ -154,4 +157,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2507-number-of-common-factors](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/2507-number-of-common-factors) |
+## Counting
+|  |
+| ------- |
+| [2427-first-letter-to-appear-twice](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/2427-first-letter-to-appear-twice) |
 <!---LeetCode Topics End-->
