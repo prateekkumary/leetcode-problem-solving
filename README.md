@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0035-search-insert-position) |
+| [0088-merge-sorted-array](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0268-missing-number](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0283-move-zeroes) |
@@ -68,12 +69,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0455-assign-cookies) |
 | [2502-sort-the-people](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/2502-sort-the-people) |
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0455-assign-cookies) |
