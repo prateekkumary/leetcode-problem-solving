@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -69,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0455-assign-cookies) |
@@ -77,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0283-move-zeroes) |
