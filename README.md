@@ -76,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0005-longest-palindromic-substring) |
 | [0088-merge-sorted-array](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0283-move-zeroes) |
@@ -84,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0005-longest-palindromic-substring) |
 | [0038-count-and-say](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0038-count-and-say) |
 | [0072-edit-distance](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0125-valid-palindrome) |
@@ -133,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0005-longest-palindromic-substring) |
 | [0072-edit-distance](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0338-counting-bits) |
