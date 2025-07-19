@@ -86,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0455-assign-cookies) |
 | [0841-shortest-distance-to-a-character](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0841-shortest-distance-to-a-character) |
+| [2128-reverse-prefix-of-word](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/2128-reverse-prefix-of-word) |
 ## String
 |  |
 | ------- |
@@ -102,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0812-rotate-string](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0812-rotate-string) |
 | [0824-number-of-lines-to-write-string](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0824-number-of-lines-to-write-string) |
 | [0841-shortest-distance-to-a-character](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0841-shortest-distance-to-a-character) |
+| [2128-reverse-prefix-of-word](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/2128-reverse-prefix-of-word) |
 | [2427-first-letter-to-appear-twice](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/2427-first-letter-to-appear-twice) |
 | [2502-sort-the-people](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/2502-sort-the-people) |
 ## Linked List
@@ -177,4 +179,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Stack
+|  |
+| ------- |
+| [2128-reverse-prefix-of-word](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/2128-reverse-prefix-of-word) |
 <!---LeetCode Topics End-->
