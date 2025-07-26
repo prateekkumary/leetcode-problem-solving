@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0088-merge-sorted-array) |
@@ -52,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0278-first-bad-version) |
@@ -127,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0004-median-of-two-sorted-arrays) |
 | [0190-reverse-bits](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/prateekkumary/leetcode-problem-solving/tree/master/0191-number-of-1-bits) |
 ## Simulation
